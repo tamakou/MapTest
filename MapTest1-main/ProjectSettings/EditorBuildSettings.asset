@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ML2basic.unity
+    guid: df1723c6b3d2342c1b89011dc487b0ff
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 9f97b44d61ae249d9992c6aadea95628, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9a24f10cb1a0f428984276b1b6531040, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 2c77872691ff34911bdb94b251bf1a3e, type: 2}
+  m_UseUCBPForAssetBundles: 0
